@@ -1,0 +1,9 @@
+1. Two pages .
+2. HomePage -> list all the created & saved pages.
+3. Editor page-> where user can create docs.
+4. Update the docs,delete.
+5. Profile Page.(Name,No.of.documents-created,)
+6.Dark theme and light Theme.
+
+Schema of Text Editing document.
+1. 
